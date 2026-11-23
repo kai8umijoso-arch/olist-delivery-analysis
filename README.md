@@ -119,5 +119,8 @@
 
 ## 6. 使用ファイル
 
-- `ZOZO_delivery_analysis_threshold_revised.ipynb`：分析コード・集計・グラフ・考察
-- `README_ZOZO_delivery_analysis_threshold_revised.md`：分析目的、結果、考察、改善案、限界
+## 6. ファイルの使用
+
+- `delivery_delay_analysis.ipynb`：分析コード・集計表・グラフ・考察
+- `README.md`：分析目的・分析結果・考察・改善案・分析の限界
+
